@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "559285573749",
+    "project_id": "book-list-sample-cf050",
+    "storage_bucket": "book-list-sample-cf050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559285573749:android:a705726c4a73bda29fc03c",
+        "android_client_info": {
+          "package_name": "jp.kboy.book_list_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559285573749-cagi7akiivtbktjs26bjas1fevi9i2d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2twe_QRNgjlEZqfD0vmjT7sYWw-7dP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559285573749-cagi7akiivtbktjs26bjas1fevi9i2d3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559285573749-4t19cq60fjkfu5k5gt8m15o7anifskou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.kboy.bookListSample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
