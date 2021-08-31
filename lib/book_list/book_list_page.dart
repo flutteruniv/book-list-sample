@@ -28,6 +28,9 @@ class BookListPage extends StatelessWidget {
                   (book) => Slidable(
                     actionPane: SlidableDrawerActionPane(),
                     child: ListTile(
+                      leading: book.imgURL != null
+                          ? Image.network(book.imgURL!)
+                          : null,
                       title: Text(book.title),
                       subtitle: Text(book.author),
                     ),
